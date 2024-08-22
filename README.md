@@ -252,6 +252,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [ThemeGrill](https://themegrill.com/) | Basundhara, Kathmandu | Free and Premium WordPress Themes Store
 - [Three Monks](https://www.threemonk.com/) | New Baneshwor, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
 - [Truemark](https://truemark.dev) | Ranibari Chowk, Kathmandu | We are remote first, quality focused outsourcing company
+- [Triaex Groups](https://triaex.com) | Tinkunee, Kathmandu | IT firm specializing in digital solutions for small businesses globally.
 - [UBA Solutions](https://www.uba-solutions.com/) | Thadodhunga, Lalitpur | Software Research and Development
 - [Umanga Creation Pvt. Ltd.](https://umangacreation.com.np/) | Uttar Dhoka, Kathmandu | We innovate/create/implement brands to realise their true potential
 - [Unelma Platforms](https://unelmaplatforms.com/) | Ratnanagar, Chitwan | Provider of software development services for higher-education, healthcare and business markets
